@@ -20,6 +20,6 @@ Here are some ideas to get you started:
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=das08&count_private=true&include_all_commits=true&show_icons=true&theme=vue" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=das08&count_private=true&hide=CSS,scss,HTML&theme=vue&langs_count=6&layout=compact" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=das08&count_private=true&hide=CSS,scss,HTML,js&theme=vue&langs_count=6&layout=compact" />
 </a>
 
